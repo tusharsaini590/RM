@@ -254,6 +254,10 @@ test_plan:
     - "Content Database Storage"
     - "Manual Content Upload"
     - "User Feedback System"
+    - "Distraction-Free Knowledge Feed UI"
+    - "Serendipity & Diversity Controls"
+    - "Manual Content Upload Modal"
+    - "Interactive Feedback System"
   stuck_tasks: []
   test_all: true
   test_priority: "high_first"
